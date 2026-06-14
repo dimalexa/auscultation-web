@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/auscultation-web/static/css/main.5a7ae05e.css",
-    "main.js": "/auscultation-web/static/js/main.e1cefa62.js",
+    "main.css": "/auscultation-web/static/css/main.3da36fac.css",
+    "main.js": "/auscultation-web/static/js/main.8f5c95ac.js",
     "static/js/453.61410cb9.chunk.js": "/auscultation-web/static/js/453.61410cb9.chunk.js",
     "static/media/logo.jpg": "/auscultation-web/static/media/logo.85e8f40005599ce736a2.jpg",
     "static/media/cmunrm.ttf": "/auscultation-web/static/media/cmunrm.8ff5cee913df84291549.ttf",
@@ -15,12 +15,12 @@
     "static/media/pause.png": "/auscultation-web/static/media/pause.6b4411b04864fa24d152.png",
     "static/media/logo.svg": "/auscultation-web/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/auscultation-web/index.html",
-    "main.5a7ae05e.css.map": "/auscultation-web/static/css/main.5a7ae05e.css.map",
-    "main.e1cefa62.js.map": "/auscultation-web/static/js/main.e1cefa62.js.map",
+    "main.3da36fac.css.map": "/auscultation-web/static/css/main.3da36fac.css.map",
+    "main.8f5c95ac.js.map": "/auscultation-web/static/js/main.8f5c95ac.js.map",
     "453.61410cb9.chunk.js.map": "/auscultation-web/static/js/453.61410cb9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5a7ae05e.css",
-    "static/js/main.e1cefa62.js"
+    "static/css/main.3da36fac.css",
+    "static/js/main.8f5c95ac.js"
   ]
 }
