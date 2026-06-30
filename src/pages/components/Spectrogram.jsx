@@ -3,6 +3,7 @@
 import React, { useEffect, useRef, useState, forwardRef, useImperativeHandle } from 'react';
 import WaveSurfer from 'wavesurfer.js';
 import Spectrogram from 'wavesurfer.js/dist/plugins/spectrogram.esm.js';
+import '../../styles/general.css';
 
 const AudioSpectrogram = forwardRef(({ url, onPlay, onPause, onFinish, isLooping = false }, ref) => {
   const waveformRef = useRef(null);
@@ -55,10 +56,10 @@ const AudioSpectrogram = forwardRef(({ url, onPlay, onPause, onFinish, isLooping
       const ws = WaveSurfer.create({
         container: waveformRef.current,
         height: 100,
-        waveColor: 'rgb(57, 63, 138)',
-        progressColor: '#FFD700',     // Золотой для прогресса
-        cursorColor: '#FF4500',       // Яркая палочка
-        cursorWidth: 2,
+        waveColor: 'rgb(118, 124, 212)',
+        progressColor: 'rgb(57, 67, 180)',     // Золотой для прогресса
+        cursorColor: 'rgb(12, 12, 12)',       // Яркая палочка
+        cursorWidth: 4,
         url: audioUrl,
         plugins: [
           Spectrogram.create({

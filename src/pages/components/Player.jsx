@@ -97,7 +97,7 @@ export default function Player({ data }) {
             style={{ top: '57%', left: '40%' }}>
           </button>
         </div>
-        <div>
+        <div style={{display : 'flex', gap : '10%', justifyContent : 'center', flexDirection : 'column'}}>
           <button 
             className={`stop-button ${!activeIndex ? 'active' : ''}`}
             onClick={stopSound}>
