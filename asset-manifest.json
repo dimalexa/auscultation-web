@@ -1,9 +1,8 @@
 {
   "files": {
-    "main.css": "/auscultation-web/static/css/main.12bc4f91.css",
-    "main.js": "/auscultation-web/static/js/main.233814a3.js",
+    "main.css": "/auscultation-web/static/css/main.52ad68df.css",
+    "main.js": "/auscultation-web/static/js/main.189a4c89.js",
     "static/js/453.61410cb9.chunk.js": "/auscultation-web/static/js/453.61410cb9.chunk.js",
-    "static/media/thorax.jpg": "/auscultation-web/static/media/thorax.44745c557ac2b9725329.jpg",
     "static/media/cmunrm.ttf": "/auscultation-web/static/media/cmunrm.8ff5cee913df84291549.ttf",
     "static/media/Montserrat Alternates.ttf": "/auscultation-web/static/media/Montserrat Alternates.9e32cee38e5268e05e87.ttf",
     "static/media/logo.jpg": "/auscultation-web/static/media/logo.988d80fcbfab473d6144.jpg",
@@ -11,16 +10,17 @@
     "static/media/as-early.mp3": "/auscultation-web/static/media/as-early.51105644eec9d1ca30d4.mp3",
     "static/media/mr.mp3": "/auscultation-web/static/media/mr.baccc8a85a67ae0d1c31.mp3",
     "static/media/vsd.mp3": "/auscultation-web/static/media/vsd.03573aa17806020e55f9.mp3",
+    "static/media/thorax.jpg": "/auscultation-web/static/media/thorax.6e5d966f1b34341e6c4c.jpg",
     "static/media/play.png": "/auscultation-web/static/media/play.3a6a411b81a603a87eb6.png",
     "static/media/pause.png": "/auscultation-web/static/media/pause.6b4411b04864fa24d152.png",
     "static/media/logo.svg": "/auscultation-web/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/auscultation-web/index.html",
-    "main.12bc4f91.css.map": "/auscultation-web/static/css/main.12bc4f91.css.map",
-    "main.233814a3.js.map": "/auscultation-web/static/js/main.233814a3.js.map",
+    "main.52ad68df.css.map": "/auscultation-web/static/css/main.52ad68df.css.map",
+    "main.189a4c89.js.map": "/auscultation-web/static/js/main.189a4c89.js.map",
     "453.61410cb9.chunk.js.map": "/auscultation-web/static/js/453.61410cb9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.12bc4f91.css",
-    "static/js/main.233814a3.js"
+    "static/css/main.52ad68df.css",
+    "static/js/main.189a4c89.js"
   ]
 }
