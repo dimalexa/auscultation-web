@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/auscultation-web/static/css/main.fbf7808b.css",
-    "main.js": "/auscultation-web/static/js/main.b494a612.js",
+    "main.css": "/auscultation-web/static/css/main.49323ba7.css",
+    "main.js": "/auscultation-web/static/js/main.898c7904.js",
     "static/js/453.61410cb9.chunk.js": "/auscultation-web/static/js/453.61410cb9.chunk.js",
     "static/media/cmunrm.ttf": "/auscultation-web/static/media/cmunrm.8ff5cee913df84291549.ttf",
     "static/media/Montserrat Alternates.ttf": "/auscultation-web/static/media/Montserrat Alternates.9e32cee38e5268e05e87.ttf",
@@ -15,12 +15,12 @@
     "static/media/pause.png": "/auscultation-web/static/media/pause.6b4411b04864fa24d152.png",
     "static/media/logo.svg": "/auscultation-web/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/auscultation-web/index.html",
-    "main.fbf7808b.css.map": "/auscultation-web/static/css/main.fbf7808b.css.map",
-    "main.b494a612.js.map": "/auscultation-web/static/js/main.b494a612.js.map",
+    "main.49323ba7.css.map": "/auscultation-web/static/css/main.49323ba7.css.map",
+    "main.898c7904.js.map": "/auscultation-web/static/js/main.898c7904.js.map",
     "453.61410cb9.chunk.js.map": "/auscultation-web/static/js/453.61410cb9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.fbf7808b.css",
-    "static/js/main.b494a612.js"
+    "static/css/main.49323ba7.css",
+    "static/js/main.898c7904.js"
   ]
 }
