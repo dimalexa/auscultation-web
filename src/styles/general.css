@@ -2,8 +2,8 @@
     margin-top: 110px;
     min-height: fit-content;
     min-width: fit-content;
-    padding-left: 10%;
-    padding-right: 10%;
+    padding-left: 7%;
+    padding-right: 7%;
     font-family: "CMU Modern Serif Roman";
 }
 
@@ -17,8 +17,8 @@
     background-image: url('../data/images/thorax.jpg');
     background-size: contain;
     background-repeat: no-repeat;
-    height: 800px;
-    width: 800px;
+    height: 600px;
+    width: 600px;
     display: flex;
     flex-direction: row;
 }
@@ -73,6 +73,10 @@
 .stop-button:hover {
     transform: scale(1.1);
     box-shadow: 0 0 20px rgba(0,0,0,0.2);
+}
+
+.spectrogramm {
+    width: 400px;
 }
 
 @media (max-width: 769px){
