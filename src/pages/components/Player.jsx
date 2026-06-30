@@ -4,7 +4,7 @@ import play from '../../data/images/play.png';
 import '../../styles/general.css';
 import React, { useState, useCallback, useEffect } from 'react';
 import SpectrogramPlayer from 'react-audio-spectrogram-player';
-
+/////////jjfodkdpfkfdpld
 export default function Player({ data }) {
     const [activeIndex, setActiveIndex] = useState(null);
     const [currentAudio, setCurrentAudio] = useState(null);
